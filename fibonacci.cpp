@@ -27,3 +27,6 @@ int main()
 	
 	cout<<"\nComplexicity: "<<count;	
 }
+
+implement linear and itereative binary search and compare complexities of these algorithms
+
