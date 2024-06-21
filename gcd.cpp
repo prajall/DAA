@@ -30,4 +30,5 @@ int main()
 
   cout << "GCD: " << gcd << endl
        << "Complexicity: " << count;
+  return 0;
 }
