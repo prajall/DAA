@@ -56,4 +56,6 @@ int main()
 
     bubbleSort(A1,n);
     selectionSort(A2,n);
+	//return 0;
+	//return 0;
 }
